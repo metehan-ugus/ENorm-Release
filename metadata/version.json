@@ -1,0 +1,23 @@
+{
+    "latest_version": "1.0.1",
+    "build_number": "3",
+    "release_date": "2025-01-16T10:00:00Z",
+    "download_url": "https://github.com/metehan-ugus/ENorm-Release/releases/latest/download/ElevatorSetup-v1.0.1.exe",
+    "direct_download_url": "https://github.com/metehan-ugus/ENorm-Release/raw/main/installers/latest/ElevatorSetup-latest.exe",
+    "mandatory": false,
+    "min_version": "1.0.0",
+    "release_notes_url": "https://github.com/metehan-ugus/ENorm-Release/raw/main/metadata/release-notes/v1.0.1.md",
+    "release_notes": "Initial release - Professional elevator management system with auto-update capability.",
+    "size_mb": 22.5,
+    "sha256": "pending",
+    "changelog": [
+      "✅ Desktop application for Windows",
+      "✅ QR code scanning for elevators", 
+      "✅ Issue reporting and tracking",
+      "✅ Technician assignment system",
+      "✅ Automatic update notifications",
+      "✅ Offline capability"
+    ],
+    "breaking_changes": false,
+    "security_update": false
+  }
