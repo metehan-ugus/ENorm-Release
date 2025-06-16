@@ -1,0 +1,55 @@
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.cache
+
+# System files  
+Thumbs.db
+.DS_Store
+*.swp
+*.swo
+*~
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-*
+
+# Build artifacts (but keep installers)
+*.obj
+*.pdb
+*.ilk
+
+# Windows specific
+desktop.ini
+$RECYCLE.BIN/
+
+# Archives (except release archives)
+*.zip
+*.rar
+*.7z
+*.tar.gz
+# But keep installer executables
+!*.exe
+!installers/**/*.exe
+
+# Backup files
+*.bak
+*.backup
+*.orig
+
+# Documentation temp files
+*.aux
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+
+# Node.js (if we add any scripts)
+node_modules/
+npm-debug.log*
+
+# Python (if we add any scripts)
+__pycache__/
+*.pyc
+*.pyo
