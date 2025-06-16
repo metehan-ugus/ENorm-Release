@@ -2,39 +2,39 @@
 
 Official release repository for the Elevator Management System.
 
-## 📦 Latest Release
+## Latest Release
 
 - **Version:** v1.0.1
 - **Release Date:** Jun 17, 2025
 - **Download:** [ElevatorSetup-v1.0.1.exe](https://github.com/metehan-ugus/ENorm-Release/releases/latest)
 
-## 🔽 Installation
+## Installation
 
 1. Download `ElevatorSetup-v1.0.1.exe`
 2. Run as administrator
 3. Follow installation wizard
 4. Launch from desktop shortcut
 
-## 🔄 Auto-Updates
+## Auto-Updates
 
 The application automatically checks for updates on startup and notifies users when new versions are available.
 
-## 📋 System Requirements
+## System Requirements
 
 - Windows 10/11 (64-bit)
 - 4 GB RAM minimum
 - 500 MB disk space
 - Internet connection for updates
 
-## 🆘 Support
+## Support
 
 For technical support, please contact: hello@metehanugus.com
 
-PROPRIETARY SOFTWARE LICENSE
+## PROPRIETARY SOFTWARE LICENSE
 
 This software ENorm App ("Software") is licensed exclusively to ENorm Group AS for internal business use only. All copyrights and intellectual property rights are owned by Metehan Ugus.
 
-LICENSE TERMS:
+### LICENSE TERMS:
 
 1. Usage:
    - ENorm Group AS is granted a non-transferable, non-exclusive license to use the Software within its internal operations.
