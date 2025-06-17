@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "1.0.17",
-    "release_notes":  "ENorm AsansÃ¶r BakÄ±m Sistemi v1.0.17",
-    "build_date":  "2025-06-17 14:01:53",
-    "installer_name":  "ENormAsansorSetup_v1.0.17.exe",
+    "version":  "1.0.18",
+    "release_notes":  "ENorm AsansÃ¶r BakÄ±m Sistemi v1.0.18",
+    "build_date":  "2025-06-17 14:04:59",
+    "installer_name":  "ENormAsansorSetup_v1.0.18.exe",
     "mandatory":  false,
-    "download_url":  "https://github.com/metehan-ugus/ENorm-Release/releases/latest/download/ENormAsansorSetup_v1.0.17.exe",
+    "download_url":  "https://github.com/metehan-ugus/ENorm-Release/releases/latest/download/ENormAsansorSetup_v1.0.18.exe",
     "min_version":  "1.0.0"
 }
