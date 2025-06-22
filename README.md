@@ -39,5 +39,5 @@
 
 - v1.0.27 - 17.06.2025 - Son guncellemeler ve iyilestirmeler
 
-Bu yazilim ENorm tarafindan gelistirilmistir. Tum haklari saklidir.
+Bu yazilim ENorm icin gelistirilmistir. Tum haklari saklidir.
 
