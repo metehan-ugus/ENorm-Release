@@ -1,9 +1,9 @@
-﻿## ENorm Asansor Bakim Sistemi v1.5.2
+﻿## ENorm Asansor Bakim Sistemi v1.5.4
 
 ### Professional Windows Installer
 
 **Indirme:**
-- Windows Kurulum Dosyasi: [ENormAsansorSetup_v1.5.2.exe](https://github.com/metehan-ugus/ENorm-Release/releases/latest/download/ENormAsansorSetup_v1.5.2.exe)
+- Windows Kurulum Dosyasi: [ENormAsansorSetup_v1.5.4.exe](https://github.com/metehan-ugus/ENorm-Release/releases/latest/download/ENormAsansorSetup_v1.5.4.exe)
 
 ### Kurulum Talimatlari:
 1. Kurulum dosyasini indirin
