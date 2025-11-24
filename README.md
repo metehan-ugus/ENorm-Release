@@ -1,11 +1,11 @@
 ﻿# ENorm Asansor Bakim Sistemi
 
-## Son Surum: v1.7.3
+## Son Surum: v1.7.4
 
 ### Indirme Linkleri
 
 **Windows Installer:**
-- [ENormAsansorSetup_v1.7.3.exe](https://github.com/metehan-ugus/ENorm-Release/releases/latest/download/ENormAsansorSetup_v1.7.3.exe)
+- [ENormAsansorSetup_v1.7.4.exe](https://github.com/metehan-ugus/ENorm-Release/releases/latest/download/ENormAsansorSetup_v1.7.4.exe)
 
 ### Kurulum
 
@@ -37,7 +37,7 @@
 
 ### Versiyon Gecmisi
 
-- v1.7.3 - 21.11.2025 - Son guncellemeler ve iyilestirmeler
+- v1.7.4 - 24.11.2025 - Son guncellemeler ve iyilestirmeler
 
 Bu yazilim ENorm tarafindan gelistirilmistir. Tum haklari saklidir.
 
