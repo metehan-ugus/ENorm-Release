@@ -1,11 +1,11 @@
 ﻿{
     "mandatory":  false,
-    "installer_name":  "ENormAsansorSetup_v1.9.0.exe",
+    "installer_name":  "ENormAsansor-stable-Setup.exe",
     "version":  "1.9.0",
     "release_notes":  "ENorm AsansÃ¶r BakÄ±m Sistemi v1.9.0 - Velopack Self-Update",
     "package_name":  "ENormAsansor-1.9.0-stable-full.nupkg",
     "download_url":  "https://github.com/metehan-ugus/ENorm-Release/releases/latest",
     "velopack_feed_url":  "https://github.com/metehan-ugus/ENorm-Release/releases/latest",
     "min_version":  "1.0.0",
-    "build_date":  "2025-12-22 21:22:21"
+    "build_date":  "2025-12-22 21:42:16"
 }
