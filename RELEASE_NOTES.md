@@ -1,20 +1,20 @@
-﻿## ENorm Asansor Bakim Sistemi v1.9.0
+﻿## ENorm Asansor Bakim Sistemi v1.9.1
 
-### Velopack Self-Update Sistemi
+### Professional Windows Installer
 
 **Indirme:**
-- Velopack Package: [ENormAsansor-1.9.0-stable-full.nupkg](https://github.com/metehan-ugus/ENorm-Release/releases/latest/download/ENormAsansor-1.9.0-stable-full.nupkg)
+- Windows Kurulum Dosyasi: [ENormAsansorSetup_v1.9.1.exe](https://github.com/metehan-ugus/ENorm-Release/releases/latest/download/ENormAsansorSetup_v1.9.1.exe)
 
 ### Kurulum Talimatlari:
 1. Kurulum dosyasini indirin
-2. Calistirin (per-user kurulum - UAC gerektirmez)
-3. Uygulama otomatik olarak baslar
+2. Yonetici olarak calistirin
+3. Kurulum sihirbazini takip edin
+4. Baslat Menusu nden baslatin
 
 ### Ozellikler:
-- Per-User Kurulum: Kullanici bazli kurulum
-- UAC'siz Guncelleme: Uygulama icinden sorunsuz guncelleme
-- Otomatik Rollback: Basarisiz guncellemede otomatik geri donus
-- Velopack Self-Update: Modern guncelleme sistemi
+- Professional Kurulum: Program Files a kurulum
+- Otomatik Guncelleme: Uygulama ici guncelleme
+- Windows Entegrasyonu: Baslat Menusu ve masaustu
 
 ### Sistem Gereksinimleri:
 - Windows 10 veya uzeri (64-bit)
