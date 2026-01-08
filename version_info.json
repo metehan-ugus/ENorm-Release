@@ -1,7 +1,7 @@
 ﻿{
     "version":  "1.9.9",
     "release_notes":  "ENorm AsansÃ¶r BakÄ±m Sistemi v1.9.9",
-    "build_date":  "2026-01-08 14:45:18",
+    "build_date":  "2026-01-08 16:58:07",
     "installer_name":  "ENormAsansorSetup_v1.9.9.exe",
     "mandatory":  false,
     "download_url":  "https://github.com/metehan-ugus/ENorm-Release/releases/latest/download/ENormAsansorSetup_v1.9.9.exe",
